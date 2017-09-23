@@ -1,0 +1,16 @@
+{
+  "name": "web_audio",
+  "version": "1.0.0",
+  "description": "Web Audio Test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":  "node start-server.js"
+  },
+  "keywords": [
+    "Weeb",
+    "Audio"
+  ],
+  "author": "mastermalone",
+  "license": "ISC"
+}
